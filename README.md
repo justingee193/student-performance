@@ -20,4 +20,4 @@ student-mat.csv - Data used for project
 python main.py
 ```
 
-Final output can be viewed [here...](justingee193.github.io/links/student-performance.html)
+Final output can be viewed [here...](https://justingee193.github.io/justingee193.github.io/links/student-performance.html)
