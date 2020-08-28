@@ -74,24 +74,3 @@ class Tables(object):
         conditional_dist.index = self.indices
         
         print(conditional_dist)
-            
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
