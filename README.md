@@ -1,6 +1,6 @@
 # Student Performance Analysis
 
-This project uses student performance data from [UCI Machine Learning Repository](), the project is focused on doing statistical analysis on student data to determine variables that affect student final grades. This is done to gain insight into student learning and behaviors. The analysis used in this project can be implemented into business decisions such as understanding worker productivity, customer satisfaction or product development.
+This project uses student performance data from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/student+performance), the project is focused on doing statistical analysis on student data to determine variables that affect student final grades. This is done to gain insight into student learning and behaviors. The analysis used in this project can be implemented into business decisions such as understanding worker productivity, customer satisfaction or product development.
 
 ## Files
 ```
